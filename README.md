@@ -17,12 +17,11 @@
 
 ## Technologies Used
 Used:
-
-python
-numpy
-pandas
-google colab
-matplotlib
+* Python
+* Numpy
+* Pandas
+* Google Colab
+* Matplotlib
 
 ## Support and contact details
 Incase of an error and/or any additional input contact me -naiomyk(Github)
