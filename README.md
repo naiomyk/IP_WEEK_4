@@ -1,4 +1,4 @@
-# IP_WEEK_4
+# Analysis of electric car usage
 # Naomi's week 4 IP
 ####  Analysis of electric car usage in electric car-sharing service company
 #### By Naomi Kosgei
