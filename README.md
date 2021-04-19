@@ -1,5 +1,5 @@
 # Analysis of electric car usage
-# Naomi's week 4 IP
+# Naomi's project
 ####  Analysis of electric car usage in electric car-sharing service company
 #### By Naomi Kosgei
 ## Description
